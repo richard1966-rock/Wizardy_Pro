@@ -105,7 +105,7 @@ bool* outputs[4] = { &output1, &output2, &output3, &output4 };
 uint8_t potvalue1 = 1, potvalue2 = 1, potvalue3 = 1, potvalue4 = 1;
 uint16_t* pots[4] = { &potValue1, &potValue2, &potValue3, &potValue4 };
 
-const char* functionName = "RUN MODE";  // max 10 chars at size 2
+const char* functionName = "WIZARDY PRO";  // max 10 chars at size 2
 
 // Layout (pixels)
 const uint8_t INPUT_COLS    = 4;
